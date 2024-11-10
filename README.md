@@ -4,6 +4,11 @@
 
 
 
+This project, in collaboration with Dr. George Papandonatos from the notable Biostatistics Department at Brown University, investigates smoking cessation outcomes in adults diagnosed with major depressive disorder (MDD). Individuals with MDD tend to smoke more heavily, show greater nicotine dependence, and endure more severe withdrawal symptoms than individuals without MDD. While varenicline has proven effective in supporting smoking cessation, addressing the psychological aspects of smoking behavior, particularly those linked to depression, may further enhance cessation rates among adults with MDD.
+
+A prior study employed a randomized, placebo-controlled, 2x2 factorial design to compare behavioral activation for smoking cessation (BASC) against standard behavioral treatment (ST), with an additional comparison of varenicline versus placebo. This study included 300 adult smokers with either current or past MDD. Findings indicated that BASC did not surpass standard behavioral treatment in effectiveness, regardless of concurrent varenicline therapy.
+
+The objective of this current project is to leverage data from this trial to assess baseline variables as potential moderators of the behavioral treatment effects on end-of-treatment (EOT) abstinence. Additionally, we aim to evaluate baseline variables as predictors of abstinence, accounting for both behavioral treatment and pharmacotherapy effects.
 
 
 
